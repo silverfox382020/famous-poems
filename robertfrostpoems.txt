@@ -1,5 +1,12 @@
 Robert Frost Poems
 
+The top five poems by Robert Frost are:
+1. The Road Not Taken
+2. Stopping by Woods on a Snowy Evening
+3. Fire and Ice
+4. Acquainted with the Night
+5.Nothing Gold Can Stay
+
 The Road Not Taken
 Two roads diverged in a yellow wood,
 And sorry I could not travel both
@@ -57,3 +64,44 @@ I think I know enough of hate
 To know that for destruction ice
 Is also great
 And would suffice.
+
+
+
+Acquainted with the Night
+
+I have been one acquainted with the night.
+I have walked out in rain and back in rain.
+I have outwalked the furthest city light.
+
+I have looked down the saddest city lane.
+I have passed by the watchman on his beat
+And dropped my eyes, unwilling to explain.
+
+I have stood still and stopped the sound of feet
+When far away an interrupted cry
+Came over houses from another sireet,
+
+But not to call me back or say good-bye;
+And further still at an unearthly height,
+One luminary clock against the sky
+
+Proclaimed the time was neither wrong nor right
+I have been one acquainted with the night.
+
+
+
+Nothing Gold Can Stay
+
+Nature’s first green is gold,
+Her hardest hue to hold.
+Her early leaf’s a flower;
+But only so an hour.
+Then leaf subsides to leaf.
+So Eden sank to grief,
+So dawn goes down to day.
+Nothing gold can stay.
+
+ 
+
+
+
